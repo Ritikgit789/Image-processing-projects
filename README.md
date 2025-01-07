@@ -6,4 +6,6 @@ Image Processing involves the manipulation and analysis of digital images using 
 
 Works and topics used: 1. Edge detection methods --- Canny Edge Detection, 2. Confusion matrix, 3. Haarcascade Separation of images or Segregation -- Region (mouth, eye, eyebrows)
 
+Chcek out this project!
+
 #image_processing #digital signal 
