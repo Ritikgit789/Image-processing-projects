@@ -8,4 +8,4 @@ Works and topics used: 1. Edge detection methods ---> Canny Edge Detection, 2. C
 
 Check out this project!
 
-#image_processing #digital signal 
+#image_processing #digital signal #OpenCV
